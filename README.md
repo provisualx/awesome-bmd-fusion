@@ -56,7 +56,7 @@ Manual in PDF is included in Fusion (access via F1). Scripting Manual and Refere
 
 [Fusion 7 User Manual](https://documents.blackmagicdesign.com/UserManuals/Fusion7_Manual.pdf?_v=1423728564000)
 
-[Fusion 7 Tool Refrence](https://documents.blackmagicdesign.com/UserManuals/Fusion7_Tool_Reference.pdf?_v=1415608454000)
+[Fusion 7 Tool Reference](https://documents.blackmagicdesign.com/UserManuals/Fusion7_Tool_Reference.pdf?_v=1415608454000)
 
 ## Software Downloads
 
